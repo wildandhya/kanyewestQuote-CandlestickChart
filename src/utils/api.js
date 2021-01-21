@@ -2,7 +2,10 @@
 
 import axios from "axios";
 
-const url = "https://api.kanye.rest";
 export const getQuoteApi = () => {
-  return axios.get(url);
+  return axios.get("https://api.kanye.rest");
+};
+
+export const getChartApi = () => {
+  return axios.get("https://testfai.herokuapp.com/ticker");
 };
