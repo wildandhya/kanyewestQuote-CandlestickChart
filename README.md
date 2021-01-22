@@ -3,8 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Route
-Kanyewest - quote = http://localhost:3000/
-Candlestick - Chart = http://localhost:3000/Candlesticks
+### Kanyewest - quote = http://localhost:3000/.\
+
+### Candlestick - Chart = http://localhost:3000/Candlesticks
 
 ## Available Scripts
 
